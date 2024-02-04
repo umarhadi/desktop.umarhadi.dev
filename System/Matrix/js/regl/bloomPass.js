@@ -1,4 +1,4 @@
-import { loadText, makePass, makePassFBO } from "./utils.js";
+import { loadText, makePassFBO, makePass } from "./utils.js";
 
 // The bloom pass is basically an added high-pass blur.
 // The blur approximation is the sum of a pyramid of downscaled, blurred textures.

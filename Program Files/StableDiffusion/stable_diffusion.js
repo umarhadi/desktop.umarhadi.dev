@@ -1,7 +1,7 @@
 /**
  * Wrapper to handle PNDM scheduler
  */
- class TVMPNDMScheduler {
+class TVMPNDMScheduler {
   constructor(schedulerConsts, latentShape, tvm, device, vm) {
     this.timestep = [];
     this.sampleCoeff = [];

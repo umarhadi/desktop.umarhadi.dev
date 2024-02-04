@@ -201,3 +201,4 @@ if (typeof exports === 'object' && typeof module === 'object')
       define([], function() { return createFFmpegCore; });
     else if (typeof exports === 'object')
       exports["createFFmpegCore"] = createFFmpegCore;
+    

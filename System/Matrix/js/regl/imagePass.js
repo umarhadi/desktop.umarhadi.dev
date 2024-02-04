@@ -1,4 +1,4 @@
-import { loadImage, loadText, makePass, makePassFBO } from "./utils.js";
+import { loadImage, loadText, makePassFBO, makePass } from "./utils.js";
 
 // Multiplies the rendered rain and bloom by a loaded in image
 
