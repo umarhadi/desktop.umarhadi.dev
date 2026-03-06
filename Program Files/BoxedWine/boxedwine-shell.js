@@ -19,7 +19,7 @@ let TEMP = "/temp/";
 let BFS_ROOT = "/";
 //params
 let Config = window.BoxedWineConfig || {};
-Config.locateRootBaseUrl = "Program Files/BoxedWine";
+Config.locateRootBaseUrl = "https://r2.umarhadi.dev/wine";
 Config.locateAppBaseUrl = "Program Files/BoxedWine";
 Config.locateOverlayBaseUrl = "Program Files/BoxedWine";
 Config.storageMode = STORAGE_LOCAL_STORAGE;
