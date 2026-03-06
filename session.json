@@ -1,19 +1,21 @@
 {
+  "aiEnabled": false,
+  "clockSource": "local",
   "iconPositions": {
-    "/Users/Public/Desktop/AI Chat.url": {
-      "gridColumnStart": 1,
-      "gridRowStart": 2
-    },
-    "/Users/Public/Desktop/Contact.url": {
+    "/Users/Public/Desktop/Bruno Mars - Risk It All.url": {
       "gridColumnStart": 2,
       "gridRowStart": 2
     },
-    "/Users/Public/Desktop/My PC.url": {
+    "/Users/Public/Desktop/contact.url": {
       "gridColumnStart": 1,
+      "gridRowStart": 2
+    },
+    "/Users/Public/Desktop/umar.url": {
+      "gridColumnStart": 2,
       "gridRowStart": 1
     },
-    "/Users/Public/Desktop/Umar.url": {
-      "gridColumnStart": 2,
+    "/Users/Public/Desktop/my pc.url": {
+      "gridColumnStart": 1,
       "gridRowStart": 1
     }
   },
@@ -21,8 +23,9 @@
   "sortOrders": {
     "/Users/Public/Desktop": [
       [
-        "AI Chat.url",
-        "Contact.url"
+        "Contact.url",
+        "My PC.url",
+        "Umar.url"
       ],
       null,
       true
@@ -30,5 +33,5 @@
   },
   "themeName": "defaultTheme",
   "wallpaperFit": "fill",
-  "wallpaperImage": "/Users/Public/Pictures/Wallpapers/alone-in-the-desert.jpg"
+  "wallpaperImage": "/Users/Public/Pictures/Wallpapers/glaze_2.jpg"
 }
